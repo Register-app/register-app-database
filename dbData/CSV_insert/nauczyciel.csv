@@ -1,0 +1,9 @@
+nauczyciel_id,imie,nazwisko,email,numerTelefonu,czyAdministrator,czyWychowawca
+1,Ewa,Kowal,ewa_ewunia@buziaczek.pl,567234123,0,0
+2,Anna,Kobyłka,kobyla123@wp.pl,745923121,0,1
+3,Maciej,Polot,polotmaciej@gmail.com,657123457,1,0
+4,Błażej,Kot,koteczek200@gmail.com,123242341,1,1
+5,Marzena,Nieczaus,czausowa12@wp.pl,445241459,0,1
+6,Janina,Pawluk,pawlukjanina@gmail.com,763494255,0,0
+7,Anna,Kisielinska,kisielanna@wp.pl,387532355,0,1
+8,Kacper,Filipiak,filipiakkacper@wp.pl,875498086,0,1

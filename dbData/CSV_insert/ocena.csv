@@ -1,0 +1,8 @@
+ocena_id,ocena,waga,komentarz,uczen_id,date,nauczyciel_id,kategoria
+1,5,3,brak,1,2022-03-19,1,sprawdzian
+2,4,3,brak,2,2022-03-19,1,sprawdzian
+3,4,3,brak,3,2022-03-19,1,sprawdzian
+4,1,3,plagiat,4,2022-04-05,2,"praca domowa"
+5,2-,2,brak,4,2022-04-23,2,kartkówka
+6,3+,5,brak,5,2022-04-30,3,"odpowiedź ustna"
+7,4-,1,brak,6,2022-05-4,4,aktywność
