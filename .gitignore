@@ -1,0 +1,5 @@
+
+*.bak
+dbData/CSV_insert/desktop.ini
+dbModel/desktop.ini
+dbData/desktop.ini
