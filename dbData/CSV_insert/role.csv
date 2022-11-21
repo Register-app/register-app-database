@@ -1,0 +1,6 @@
+role_id,name
+1,STUDENT
+2,TEACHER
+3,ADMIN
+4,GUARDIAN
+5,USER
